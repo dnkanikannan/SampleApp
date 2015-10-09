@@ -1,0 +1,14 @@
+com\tw\shopping\cart\ShoppingHelper.class
+com\tw\shopping\cart\CheckOutCounter.class
+com\tw\shopping\item\Item.class
+com\tw\shopping\cart\Customer.class
+com\tw\shopping\item\Tax.class
+com\tw\shopping\item\TaxType.class
+com\tw\shopping\item\TaxFactory.class
+test\java\TestShopping.class
+com\tw\shopping\item\SelectedItem.class
+com\tw\shopping\cart\CustomerReceipt.class
+com\tw\shopping\item\ItemType.class
+com\tw\shopping\cart\ShopingCart.class
+com\tw\shopping\cart\CheckOutCounterImpl.class
+com\tw\shopping\main\ShoppingMain.class
